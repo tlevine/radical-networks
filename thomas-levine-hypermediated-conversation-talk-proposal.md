@@ -56,7 +56,7 @@ Not applicable
 Thomas Levine is a dada artist who really likes to sleep.
 His interests in dada and sleep are
 largely a rebellion against his upbringing in America
-that involved many elements of the
+that valued hard work and generally embodied the
 [Protestant work ethic](https://en.wikipedia.org/wiki/Protestant_work_ethic).
 When he isn't sleeping, he often develops experimental lifestyles and
 life-automation software in an effort to give himself more time to sleep.
